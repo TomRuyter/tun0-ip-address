@@ -15,4 +15,8 @@ Originally all this was taken from:
 Original code was forked from kalterfive, and had been released under GPL3.
 
   Copyright (C) 2016 kalterfive
-  This file is part of ipshower@kalterfx-gmail.com"
+  This file is part of ipshower@kalterfx-gmail.com
+
+## Installation.
+
+Copy these files into a folder called "tun0-ip-address@tomruyter.com" under {your home folder}/.local/share/gnome-shell/extensions and it should appear in the extensions list.
