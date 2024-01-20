@@ -13,3 +13,21 @@ because I wanted the tun0-ip functionality, but for use in the Gnome 45 extensio
 ## Installation
 
 Copy these files into a folder called 'tun0-ip-address@tomruyter.com' under {your home folder}/.local/share/gnome-shell/extensions and it should appear in the extensions list.
+
+## Requirements
+moreutils package so *ifdata* command works.
+
+**Debian**
+```sh
+sudo apt install moreutils
+```
+
+**Red Hat**
+```sh
+sudo yum install moreutils
+```
+
+**Arch**
+```sh
+sudo pacman -S moreutils
+```
